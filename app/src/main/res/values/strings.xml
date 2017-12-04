@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyFavoritePlaces</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act__cad_locais">Local</string>
+    <string name="lbl_place">Local</string>
+    <string name="lbl_adress">Endereço</string>
+    <string name="lbl_city">Cidade</string>
+    <string name="lbl_phone">Telefone</string>
+    <string name="lbl_site">Site</string>
+    <string name="lbl_last">Ultima Visita</string>
+
+    <string name="lbl_save">Salvar</string>
+    <string name="lbl_update">Alterar</string>
+    <string name="lbl_delete">Excluir</string>
+    <string name="txt_phone">Telefone</string>
+    <string name="txt_place">Local</string>
+    <string name="txt_adress">Endereço</string>
+    <string name="txt_city">Cidade</string>
+    <string name="txt_site">Site</string>
+    <string name="txt_last">Última Visita</string>
+    <string name="txt_save">Salvar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="plus">+</string>
+
+</resources>
